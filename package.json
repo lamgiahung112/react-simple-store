@@ -15,5 +15,11 @@
   "types": "./index.d.ts",
   "devDependencies": {
     "react": "^18.2.0"
-  }
+  },
+  "keywords": [
+    "react",
+    "state management",
+    "state manager",
+    "lightweight"
+  ]
 }

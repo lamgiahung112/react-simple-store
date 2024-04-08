@@ -36,7 +36,7 @@ const store = createStore<{
 
 ### 2. Use it everywhere in you React app with useStore hook
 ```javascript
-    import { useStore } from 'react-simple-store';
+    import { useStore } from '@lamgiahung112/react-simple-store';
 
     const YourComponent = () => {
         const { count1, inc1 } = useStore(store);
