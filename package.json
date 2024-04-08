@@ -1,0 +1,19 @@
+{
+  "name": "@lamgiahung112/react-simple-store",
+  "version": "1.0.0",
+  "description": "A hyper light-weight state manager for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/lamgiahung112/react-simple-store"
+  },
+  "author": "Lam \"triko\" Gia Hung",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
