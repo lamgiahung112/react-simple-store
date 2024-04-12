@@ -20,7 +20,8 @@ function _selfSelector(x) {
 function useStore(store, selector = _selfSelector) {
 	return useSyncExternalStore(
 		store.subscribe,
-		useCallback(() => selector(store.getState()), [store, selector])
+		useCallback(() => selector(store.getState()), [store, selector]),
+		() => selector(store.getState())
 	)
 }
 export { useStore, createStore }

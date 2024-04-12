@@ -14,6 +14,7 @@
   "license": "ISC",
   "types": "./index.d.ts",
   "devDependencies": {
+    "@types/react": "^18.2.77",
     "react": "^18.2.0"
   },
   "keywords": [
