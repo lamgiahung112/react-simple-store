@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/lamgiahung112/react-simple-store.git",
   "repository": {
     "type": "git",
-    "url": "github.com/lamgiahung112/react-simple-store"
+    "url": "https://github.com/lamgiahung112/react-simple-store.git"
   },
   "author": "Lam \"triko\" Gia Hung",
   "license": "ISC",
