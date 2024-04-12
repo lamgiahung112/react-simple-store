@@ -1,6 +1,6 @@
 {
   "name": "@lamgiahung112/react-simple-store",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A hyper light-weight state manager for React",
   "main": "index.js",
   "scripts": {
